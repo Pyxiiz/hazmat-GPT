@@ -1,0 +1,14 @@
+transformers>=4.30.0
+datasets
+accelerate
+peft
+bitsandbytes
+torch>=2.0
+tokenizers
+sentencepiece
+fastapi
+uvicorn[standard]
+pydantic
+pytest
+black
+ruff
